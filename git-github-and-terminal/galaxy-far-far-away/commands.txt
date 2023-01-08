@@ -1,0 +1,292 @@
+brind@DESKTOP-V2MNSPI MINGW64 ~
+$ cd Desktop
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop
+$ cd per-scholas
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas (main)
+$ cd git-github-and-terminal
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal (main)
+$ cd galaxy-far-far-away
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd tatoonie
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/tatoonie (main)
+$ mv millenium_falcon galaxy-far-far-away
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/tatoonie (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd tatooine
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/tatooine (main)
+$ mv millenium_falcon ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/tatooine (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mv millenium_falcon death_star/
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd death_star
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv princess_leia.txt millenium_falcon
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cd millenium_falcon
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star/millenium_falcon (main)
+$ rm obi_wan.txt
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star/millenium_falcon (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mkdir yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd death_star
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv millenium_falcon ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv millenium_falcon yavin_4
+mv: cannot stat 'millenium_falcon': No such file or directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mv millenium_falcon yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ mkdir x_wing
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ mv millenium_falcon ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd death_star
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv princess_leia.txt ./../
+mv: cannot stat 'princess_leia.txt': No such file or directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mv millenium_falcon yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ cd millenium_falcon
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ mv luke.txt x_wing
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ mv luke.txt ./
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ mv luke.txt ././
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ mv luke.txt ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ cd yavin_4
+bash: cd: yavin_4: No such file or directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ mv luke.txt x_wing
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ cd millenium_falcon/
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ mv princess_leia.txt ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ mv millenium_falcon ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ mv x_wing ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/yavin_4 (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd death_star
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mkdir tie_fighter_1
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mk dir tie_fighter_2
+bash: mk: command not found
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mkdir tie_fighter_2
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mkdir tie_fighter_3
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv darth_vader.txt tie_fighter_1
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cp storm_trooper tie_fighter_2
+cp: cannot stat 'storm_trooper': No such file or directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cp storm_trooper.txt tie_fighter_2
+cp: cannot stat 'storm_trooper.txt': No such file or directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cp storm_trooper.txt tie_fighter_2
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cp storm_trooper.txt tie_fighter_3
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv tie_fighter_1 ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv tie_fighter_2 ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ mv tie_fighter_3 ./../
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/death_star (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ rm tie_fighter_2
+rm: cannot remove 'tie_fighter_2': Is a directory
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git add .
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git commit -m "secont commit"
+[main 9b260b5] secont commit
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ rename git-github-and-terminal/galaxy-far-far-away/death_star/{darth_vader.txt => storm_trooper.txt} (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{tatoonie/galaxy-far-far-away => millenium_falcon}/chewbaca.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{tatoonie/galaxy-far-far-away => millenium_falcon}/han_solo.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{death_star => tatooine}/strom_trooper.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{death_star/princess_leia.txt => tie_fighter_1/darth_vader.txt} (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{tatoonie/galaxy-far-far-away/luke.txt => tie_fighter_2/storm_trooper.txt} (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{tatoonie/galaxy-far-far-away/obi_wan.txt => tie_fighter_3/storm_trooper.txt} (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{tatoonie/strom_trooper.txt => x_wing/luke.txt} (100%)
+ create mode 100644 git-github-and-terminal/galaxy-far-far-away/yavin_4/princess_leia.txt
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git push
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (10/10), 950 bytes | 950.00 KiB/s, done.
+Total 10 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/brindharajeswari/per-scholas.git
+   346a112..9b260b5  main -> main
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ rm-r tie_fighter_2
+bash: rm-r: command not found
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ rm -r tie_fighter_2
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ rm -r tie_fighter_3
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ cd x_wing
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/x_wing (main)
+$ touch the_force.txt
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away/x_wing (main)
+$ cd ..
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ rm -r death_star
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mv x_wing yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ mv millenium_falcon yavin_4
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git add .
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    tie_fighter_2/storm_trooper.txt
+        deleted:    tie_fighter_3/storm_trooper.txt
+        renamed:    millenium_falcon/chewbaca.txt -> yavin_4/millenium_falcon/chewbaca.txt
+        renamed:    millenium_falcon/han_solo.txt -> yavin_4/millenium_falcon/han_solo.txt
+        renamed:    x_wing/luke.txt -> yavin_4/x_wing/luke.txt
+        renamed:    death_star/storm_trooper.txt -> yavin_4/x_wing/the_force.txt
+
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git add .
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git commit -m "completed lab"
+[main 2843b33] completed lab
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 git-github-and-terminal/galaxy-far-far-away/tie_fighter_2/storm_trooper.txt
+ delete mode 100644 git-github-and-terminal/galaxy-far-far-away/tie_fighter_3/storm_trooper.txt
+ rename git-github-and-terminal/galaxy-far-far-away/{ => yavin_4}/millenium_falcon/chewbaca.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{ => yavin_4}/millenium_falcon/han_solo.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{ => yavin_4}/x_wing/luke.txt (100%)
+ rename git-github-and-terminal/galaxy-far-far-away/{death_star/storm_trooper.txt => yavin_4/x_wing/the_force.txt} (100%)
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$ git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 613 bytes | 613.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/brindharajeswari/per-scholas.git
+   9b260b5..2843b33  main -> main
+
+brind@DESKTOP-V2MNSPI MINGW64 ~/Desktop/per-scholas/git-github-and-terminal/galaxy-far-far-away (main)
+$
