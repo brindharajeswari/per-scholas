@@ -1,0 +1,29 @@
+.App {
+  /* text-align: center; */
+  margin: 25px;
+}
+
+.receiptContainer{
+  border: 2px solid orange;
+  text-align: left;
+  padding: 8px;
+  width: 185px;
+  /* height: 300px; */
+  margin:15px;
+}
+
+.receipt{
+  display: flex;
+  /* gap: 25px; */
+
+}
+
+p{
+  font-weight: bold;
+  
+}
+
+span{
+  font-weight:bold;
+  color:purple
+ }
