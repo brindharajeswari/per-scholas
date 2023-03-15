@@ -4,7 +4,7 @@ function Index() {
     return(
         <div>
             
-                <h1>Halloween crafts</h1>
+                <h1>New Year crafts</h1>
          
         </div>
     )
