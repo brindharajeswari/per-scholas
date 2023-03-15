@@ -1,4 +1,5 @@
-import React from "react";
+import React from "react"
+
 function Index() {
     return(
         <> 
@@ -16,7 +17,7 @@ function Index() {
                 <h1> Easter</h1>
             </a>  
             <a href="/fall">
-                <h1> Fall  </h1>
+                <h1> Fall </h1>
             </a> 
             <a href="/halloween">
                 <h1> Halloween </h1>
@@ -37,7 +38,7 @@ function Index() {
                 <h1>Winter</h1>
             </a>  
             <div>
-                <h1>Fall crafts</h1>
+                <h1>New year crafts</h1>
             </div>
         </div>
      </>   
