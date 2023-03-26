@@ -1,0 +1,107 @@
+body{
+    /* background-color:deepskyblue */
+    background-image: url("https://www.flyontario.com/sites/default/files/styles/hero_cropped_focal_point_medium/public/2022-05/Full-01%20%281%29.jpg?h=ac778ff2");
+}
+
+.indexview{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.show-view{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul a{
+    text-decoration: none;
+}
+
+.body:hover {
+    box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .body {
+    padding: 10px 16px;
+    margin: 20px;
+    border-bottom: 2px solid #7a6767;
+  }
+
+  button{
+    color: white;
+    background-color: rgb(208, 124, 29);
+    border-radius: 25%;
+  }
+
+  /* h1{
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  @keyframes slidein{
+    from{
+        margin-left: 100%;     
+    }
+    to{
+        margin-left: 0%;
+    }
+  } */
+
+  h1{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 35;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(201, 82, 8);
+    overflow: hidden;
+/*     
+    -webkit-text-stroke-width: 0.1px; */
+    -webkit-text-stroke-color: #fff;
+    /* text-stroke-color: #fff; */
+    white-space: nowrap;
+    
+    letter-spacing: 1px;
+    animation: move-rtl 15000ms linear infinite;
+  }
+
+  @keyframes move-rtl{
+    /* 0%{
+        transform: translateX(100);
+        
+    }
+    100%{
+        transform: translateX(-100%);
+    } */
+    from{
+        margin-left: 100%;     
+    }
+    to{
+        margin-left: -50%;
+    }
+  }
+
+  .newview{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+  }
+
+  .editview{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+  }
+
+ .all-flights{
+    font-size: 25px;
+ }
